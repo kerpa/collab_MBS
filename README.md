@@ -1,3 +1,5 @@
 # collab_MBS
-This is a repo to collaborate with Jean and Timothé 
+This is a repo to collaborate with Jean and Tim 
 to learn and develop the Python Skill !
+
+We are going to learn data science!
